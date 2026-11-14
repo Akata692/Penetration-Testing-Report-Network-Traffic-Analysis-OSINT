@@ -61,3 +61,10 @@ Here are the specific techniques used to overcome challenges during this engagem
 ## ⚠️ Disclaimer
 *These activities were performed in an authorised lab environment and against a client (Networkwalks) with explicit written permission (Letter of Authorization NW-LOA-B084-017). No unauthorized access or exploitation was performed. All findings are for educational and defensive purposes.*
 
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
